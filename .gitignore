@@ -1,0 +1,9 @@
+temporary files
+# Ignore class files
+*.class
+# Ignore temporary files
+*.tmp
+# Ignore log files
+*.log
+# Ignore target directories
+target/
